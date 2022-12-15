@@ -1,0 +1,15 @@
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\bin\Debug\net6.0\ProjetoFinal1.exe
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\bin\Debug\net6.0\ProjetoFinal1.deps.json
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\bin\Debug\net6.0\ProjetoFinal1.runtimeconfig.json
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\bin\Debug\net6.0\ProjetoFinal1.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\bin\Debug\net6.0\ProjetoFinal1.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.csproj.AssemblyReference.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.AssemblyInfoInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.AssemblyInfo.cs
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.csproj.CoreCompileInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\refint\ProjetoFinal1.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ProjetoFinal1.genruntimeconfig.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\ProjetoFinal1\obj\Debug\net6.0\ref\ProjetoFinal1.dll

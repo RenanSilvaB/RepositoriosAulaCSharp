@@ -1,0 +1,15 @@
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\bin\Debug\net6.0\9,5-TroubledeIR.exe
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\bin\Debug\net6.0\9,5-TroubledeIR.deps.json
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\bin\Debug\net6.0\9,5-TroubledeIR.runtimeconfig.json
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\bin\Debug\net6.0\9,5-TroubledeIR.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\bin\Debug\net6.0\9,5-TroubledeIR.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.csproj.AssemblyReference.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.AssemblyInfoInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.AssemblyInfo.cs
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.csproj.CoreCompileInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\refint\9,5-TroubledeIR.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\9,5-TroubledeIR.genruntimeconfig.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\9,5-TroubledeIR\obj\Debug\net6.0\ref\9,5-TroubledeIR.dll

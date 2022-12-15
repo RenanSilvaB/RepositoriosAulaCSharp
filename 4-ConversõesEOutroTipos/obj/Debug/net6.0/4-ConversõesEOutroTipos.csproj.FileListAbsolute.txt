@@ -1,0 +1,15 @@
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\bin\Debug\net6.0\4-ConversõesEOutroTipos.exe
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\bin\Debug\net6.0\4-ConversõesEOutroTipos.deps.json
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\bin\Debug\net6.0\4-ConversõesEOutroTipos.runtimeconfig.json
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\bin\Debug\net6.0\4-ConversõesEOutroTipos.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\bin\Debug\net6.0\4-ConversõesEOutroTipos.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.csproj.AssemblyReference.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.AssemblyInfoInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.AssemblyInfo.cs
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.csproj.CoreCompileInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\refint\4-ConversõesEOutroTipos.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\4-ConversõesEOutroTipos.genruntimeconfig.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\4-ConversõesEOutroTipos\obj\Debug\net6.0\ref\4-ConversõesEOutroTipos.dll

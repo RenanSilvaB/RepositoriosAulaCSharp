@@ -1,0 +1,15 @@
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\bin\Debug\net6.0\p10-Poupanca.exe
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\bin\Debug\net6.0\p10-Poupanca.deps.json
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\bin\Debug\net6.0\p10-Poupanca.runtimeconfig.json
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\bin\Debug\net6.0\p10-Poupanca.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\bin\Debug\net6.0\p10-Poupanca.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.csproj.AssemblyReference.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.AssemblyInfoInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.AssemblyInfo.cs
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.csproj.CoreCompileInputs.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\refint\p10-Poupanca.dll
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.pdb
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\p10-Poupanca.genruntimeconfig.cache
+C:\Users\nansi\source\repos\AprendendoCSharp\p10-Poupanca\obj\Debug\net6.0\ref\p10-Poupanca.dll
